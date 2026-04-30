@@ -3,7 +3,7 @@ const path = require('path');
 const { listMemos, getMemo, createMemo, updateMemo, deleteMemo } = require('./db');
 
 const app = express();
-const PORT = process.env.PORT || 3377;
+const PORT = 3377;
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));

@@ -15,7 +15,7 @@
  *   rm <id>               删除
  */
 
-const BASE = process.env.MEMO_API || 'http://localhost:3377';
+const BASE = 'http://localhost:3377';
 
 async function api(method, path, body) {
   const opts = { method, headers: {} };
