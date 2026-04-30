@@ -1,6 +1,6 @@
 ---
-name: memos
-description: 硅虾备忘录系统 — 轻量笔记服务，支持创建、查询、编辑、删除备忘录，Web 管理界面，nginx 反向代理。
+name: idea-memos
+description: 小龙虾备忘录 — 记录即时想法，让 AI 更好辅助创作
 ---
 
 # 硅虾备忘录 🦐

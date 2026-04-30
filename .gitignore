@@ -1,3 +1,5 @@
 node_modules/
 memos.db
 memos.pid
+*.db-wal
+*.db-shm
